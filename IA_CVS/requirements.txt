@@ -1,0 +1,6 @@
+requests
+numpy
+scikit-learn
+# Si vas a procesar PDFs, descomenta la que vayas a usar:
+# PyPDF2
+# pdfminer.six

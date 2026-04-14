@@ -1,0 +1,28 @@
+# data/cvs/cv_ejemplo_1.txt
+
+Nombre: Juan Pérez
+Email: juan.perez@example.com
+Teléfono: +1234567890
+
+Habilidades:
+- Python (Experto)
+- Machine Learning (Scikit-learn, TensorFlow, PyTorch)
+- Procesamiento del Lenguaje Natural (NLP, spaCy, NLTK)
+- Docker
+- AWS
+- SQL (PostgreSQL, MySQL)
+- Desarrollo Web (Django, Flask)
+
+Experiencia Laboral:
+1. Ingeniero de Machine Learning - Tech Solutions S.A. (2022-Actual)
+   - Desarrollé y desplegué modelos predictivos para optimizar procesos.
+   - Implementé pipelines de datos para el entrenamiento de modelos.
+   - Colaboré en la mejora continua de algoritmos de recomendación.
+
+2. Desarrollador Python - InnovaSoft (2019-2022)
+   - Contribuí al desarrollo de APIs RESTful para aplicaciones bancarias.
+   - Participé en el mantenimiento y optimización de bases de datos.
+
+Educación:
+- Maestría en Inteligencia Artificial - Universidad Tecnológica (2021)
+- Ingeniería de Sistemas - Universidad Nacional (2014-2018)

@@ -1,0 +1,8 @@
+# data/projects/proyecto_ia_recomendacion.txt
+
+Descripción del Proyecto:
+Desarrollo de un sistema de recomendación avanzado para una plataforma de e-commerce.
+El proyecto implica la implementación de algoritmos de Machine Learning (filtrado colaborativo, redes neuronales)
+para personalizar la experiencia del usuario y aumentar las ventas.
+Se requiere experiencia sólida en Python, frameworks de ML (TensorFlow o PyTorch) y conocimiento de sistemas de bases de datos.
+La orquestación con Docker y el despliegue en la nube (AWS) son un plus.
